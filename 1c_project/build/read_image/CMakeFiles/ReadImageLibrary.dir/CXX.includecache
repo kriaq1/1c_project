@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kriaq/1c/1c_project/read_image/read_image.cpp
+read_image.h
+/home/kriaq/1c/1c_project/read_image/read_image.h
+
+/home/kriaq/1c/1c_project/read_image/read_image.h
+vector
+-
+string
+-
+fstream
+-
+

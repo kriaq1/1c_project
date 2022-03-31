@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kriaq/1c/1c_project/solution/solution.cpp
+solution.h
+/home/kriaq/1c/1c_project/solution/solution.h
+iostream
+-
+
+/home/kriaq/1c/1c_project/solution/solution.h
+vector
+-
+array
+-
+

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libReadImageLibrary.a  CMakeFiles/ReadImageLibrary.dir/read_image.cpp.o
+/usr/bin/ranlib libReadImageLibrary.a

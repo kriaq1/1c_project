@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kriaq/1c/1c_project/main.cpp
+main.h
+/home/kriaq/1c/1c_project/main.h
+
+/home/kriaq/1c/1c_project/main.h
+solution/solution.h
+/home/kriaq/1c/1c_project/solution/solution.h
+read_image/read_image.h
+/home/kriaq/1c/1c_project/read_image/read_image.h
+iostream
+-
+
+/home/kriaq/1c/1c_project/read_image/read_image.h
+vector
+-
+string
+-
+fstream
+-
+
+/home/kriaq/1c/1c_project/solution/solution.h
+vector
+-
+array
+-
+

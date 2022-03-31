@@ -1,0 +1,9 @@
+/home/kriaq/1c/1c_project/build/CMakeFiles/rebuild_cache.dir
+/home/kriaq/1c/1c_project/build/CMakeFiles/edit_cache.dir
+/home/kriaq/1c/1c_project/build/CMakeFiles/1c_project.dir
+/home/kriaq/1c/1c_project/build/read_image/CMakeFiles/rebuild_cache.dir
+/home/kriaq/1c/1c_project/build/read_image/CMakeFiles/edit_cache.dir
+/home/kriaq/1c/1c_project/build/read_image/CMakeFiles/ReadImageLibrary.dir
+/home/kriaq/1c/1c_project/build/solution/CMakeFiles/rebuild_cache.dir
+/home/kriaq/1c/1c_project/build/solution/CMakeFiles/edit_cache.dir
+/home/kriaq/1c/1c_project/build/solution/CMakeFiles/SolutionLibrary.dir

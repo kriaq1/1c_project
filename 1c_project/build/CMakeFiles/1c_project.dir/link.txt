@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/1c_project.dir/main.cpp.o  -o 1c_project  read_image/libReadImageLibrary.a solution/libSolutionLibrary.a 
