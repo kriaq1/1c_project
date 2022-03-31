@@ -98,8 +98,6 @@ std::vector<int> get_gradient_transitions(const std::vector<int> &image) {
 
 
 
-
-#include <iostream>
 std::array <int, 4> get_max_squad(const std::vector <int>& h) {
     std::vector<int> left_min, right_min;
     int n = h.size();
